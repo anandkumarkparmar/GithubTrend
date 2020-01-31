@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Trending</string>
+
+    <string name="roboto_light">sans-serif-light</string>
+    <string name="roboto_medium">sans-serif-medium</string>
+    <string name="roboto_regular">sans-serif</string>
+    <string name="roboto_condensed">sans-serif-condensed</string>
+    <string name="roboto_black">sans-serif-black</string>
+    <string name="roboto_thin">sans-serif-thin</string>
+
+    <string name="short_by_stars">Short by stars</string>
+    <string name="short_by_name">Short by name</string>
+    <string name="retry">Retry</string>
+    <string name="an_alien_is_probably_blocking_your_signal">An alien is probably blocking your signal.</string>
+    <string name="something_went_wrong">Something went wrong..</string>
+</resources>
